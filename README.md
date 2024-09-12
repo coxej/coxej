@@ -13,7 +13,7 @@ let coxej = {
             ["React", "Next.js", "Express.js", "Flask"]
         },
         cloud: ["Azure", "AWS"],
-        git: ["Azure DevOps", "GitHub", "GitLab"],
+        git: ["GitHub", "GitLab", "Azure DevOps"],
         databases: ["MSSQL", "MySQL", "NoSQL"]
     },
     currentFocus: "Developing web applications that leverage the powers of AI to improve the way people work!",
