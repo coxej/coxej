@@ -22,7 +22,7 @@ let coxej = {
 ```
 
 #### 📫 ___Feel free to reach out:___
-[![Linkedin Badge](https://img.shields.io/badge/-EJCox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-cox-1b7336150/)](https://www.linkedin.com/in/edward-cox-1b7336150/)
+[![Linkedin Badge](https://img.shields.io/badge/-EJ%20Cox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-cox-1b7336150/)](https://www.linkedin.com/in/edward-cox-1b7336150/)
 
 ## __Stats__
 [![EJ Cox](https://github-readme-stats.vercel.app/api?username=coxej&show_icons=true&count_private=true&theme=dark)](https://https://github.com/coxej)
