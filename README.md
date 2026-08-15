@@ -14,9 +14,8 @@ let coxej = {
         frameworks: {
             ["React", "FastAPI", "Quart", "Flask"]
         },
-        cloud: ["Azure", "AWS"],
-        git: ["GitHub", "GitLab", "Azure DevOps"],
         databases: ["MSSQL", "MySQL", "PostgreSQL", "NoSQL"],
+        cloud: ["Azure", "AWS"],
         ai: ["Codex", "GitHub Copilot", "Claude Code"]
     },
     currentFocus: "Maximizing productivity by bringing AI to end users",
